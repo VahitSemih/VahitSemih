@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VahitSemih
 - 👀 I’m interested in Game
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Rockstar Games
 - 📫 How to reach me Msg me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
